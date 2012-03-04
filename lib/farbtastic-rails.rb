@@ -1,3 +1,4 @@
+require "farbtastic-rails/engine"
 require "farbtastic-rails/version"
 
 module Farbtastic
