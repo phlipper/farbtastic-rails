@@ -1,4 +1,4 @@
-# Farbtastic::Rails
+# farbtastic-rails
 
 [Farbtastic](http://acko.net/blog/farbtastic-jquery-color-picker-plug-in/) v[1.3u](https://github.com/mattfarina/farbtastic/tree/farbtastic-1), colorfully bundled for Rails 3+.
 
